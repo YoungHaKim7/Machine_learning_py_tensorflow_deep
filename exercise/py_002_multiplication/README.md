@@ -85,3 +85,12 @@ python3 main.py
 9 x 9 = 81
 
 ```
+
+<br>
+
+<hr>
+
+# (파이썬Python)vs(Rust러스트)구구단만들기_리눅스명령어연습ls_mkdir_rm_cp_mv_Multiplication_Table
+
+https://youtu.be/HMw1RC36-C0
+
