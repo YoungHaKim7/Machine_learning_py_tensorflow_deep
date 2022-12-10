@@ -1,4 +1,10 @@
-# openAI / gpt-3
+# OpenAI
+
+https://github.com/openai
+
+<br>
+
+# OpenAI / gpt-3
 
 https://github.com/openai/gpt-3
 
