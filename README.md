@@ -45,7 +45,7 @@ https://youtu.be/eWRfhZUzrAc
 - 한글파이썬Python강의_001⭐️Python개발환경_디버깅기초_AstroVim세팅Debugging_Vim_macOS_M1_pro #debugging #Astrovim
 
 
-macOS 가능한듯요 ㅠㅠ
+macOS만 가능한듯요 ㅠㅠ
 
 <br>
 
