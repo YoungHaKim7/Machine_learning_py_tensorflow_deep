@@ -1,3 +1,12 @@
+# NLP 101: 딥러닝과 자연어 처리 학습을 위한 자료 저장소
+
+https://github.com/Huffon/NLP101/blob/master/README_KR.md
+
+<hr>
+
+<br>
+
+
 # Machine Learing 
 
 <br>
