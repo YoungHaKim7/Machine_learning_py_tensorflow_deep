@@ -15,6 +15,10 @@ https://github.com/Huffon/NLP101/blob/master/README_KR.md
 # tensorflow_deep
 
 
+# ♥︎Anaconda주로 사용하는 명령어 총 정리
+
+https://economiceco.tistory.com/11830
+
 <br>
 
 <hr>
