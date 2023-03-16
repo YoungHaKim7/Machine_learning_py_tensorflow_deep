@@ -8,6 +8,10 @@
 
 <br>
 
+# 머신러닝+딥러닝 책 보는 순서-총 정리!!(Book-RoadMap)
+
+https://economiceco.tistory.com/11818
+
 # NLP 101: 딥러닝과 자연어 처리 학습을 위한 자료 저장소
 
 https://github.com/Huffon/NLP101/blob/master/README_KR.md
