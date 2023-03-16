@@ -67,3 +67,7 @@ https://youtu.be/waPzGgZAyZU
 
 https://ebbnflow.tistory.com/119
 
+# Tensorflow.blog 텐서플로우 블로그
+
+https://tensorflow.blog/
+
