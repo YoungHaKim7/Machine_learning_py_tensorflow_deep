@@ -71,3 +71,6 @@ https://ebbnflow.tistory.com/119
 
 https://tensorflow.blog/
 
+# 딥러닝 기초를 위한 선형대수학
+
+https://ko.khanacademy.org/math/linear-algebra
