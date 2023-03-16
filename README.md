@@ -1,11 +1,3 @@
-# NLP 101: 딥러닝과 자연어 처리 학습을 위한 자료 저장소
-
-https://github.com/Huffon/NLP101/blob/master/README_KR.md
-
-<hr>
-
-<br>
-
 
 # Machine Learing 
 
@@ -14,6 +6,15 @@ https://github.com/Huffon/NLP101/blob/master/README_KR.md
 
 # tensorflow_deep
 
+<br>
+
+# NLP 101: 딥러닝과 자연어 처리 학습을 위한 자료 저장소
+
+https://github.com/Huffon/NLP101/blob/master/README_KR.md
+
+<hr>
+
+<br>
 
 # ♥︎Anaconda주로 사용하는 명령어 총 정리
 
