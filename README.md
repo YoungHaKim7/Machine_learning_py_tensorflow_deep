@@ -62,6 +62,17 @@ https://youtu.be/waPzGgZAyZU
 
 <br>
 
+<hr>
+
+<br>
+
+# 파이썬 텐서플로우 & 머신러닝 기초 강좌 (TensorFlow Machine
+
+https://youtube.com/playlist?list=PLRx0vPvlEmdAbnmLH9yh03cw9UQU_o7PO
+
+<br>
+
+<hr>
 
 # CNN영상에 주로 사용 / RNN 글씨 문자에 사용
 
