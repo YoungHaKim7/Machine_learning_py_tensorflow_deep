@@ -63,3 +63,7 @@ https://youtu.be/waPzGgZAyZU
 <br>
 
 
+# CNN영상에 주로 사용 / RNN 글씨 문자에 사용
+
+https://ebbnflow.tistory.com/119
+
