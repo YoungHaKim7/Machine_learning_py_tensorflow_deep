@@ -12,6 +12,9 @@
 
 https://economiceco.tistory.com/11818
 
+![KakaoTalk_20230305_143811173](https://user-images.githubusercontent.com/67513038/225540880-d4d870d2-1221-4a46-b09c-b5d9aa63b3af.png)
+![img](https://user-images.githubusercontent.com/67513038/225540886-69f18b72-aade-440f-a929-2bfc2fd5cd82.jpg)
+
 # NLP 101: 딥러닝과 자연어 처리 학습을 위한 자료 저장소
 
 https://github.com/Huffon/NLP101/blob/master/README_KR.md
