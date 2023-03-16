@@ -74,3 +74,7 @@ https://tensorflow.blog/
 # 딥러닝 기초를 위한 선형대수학
 
 https://ko.khanacademy.org/math/linear-algebra
+
+# 딥러닝 기초eBook& 행렬기초
+
+https://atcold.github.io/pytorch-Deep-Learning/ko/
