@@ -8,6 +8,10 @@
 
 <br>
 
+# StableLM: Stability AI Language Models(LM)
+
+https://github.com/stability-AI/stableLM/
+
 # 머신러닝+딥러닝 책 보는 순서-총 정리!!(Book-RoadMap)
 
 https://economiceco.tistory.com/11818
