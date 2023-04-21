@@ -12,6 +12,12 @@
 
 https://github.com/stability-AI/stableLM/
 
+# C언어로 신경망구현하기-Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)
+
+https://youtu.be/w8yWXqWQYmU
+
+<hr>
+
 # 머신러닝+딥러닝 책 보는 순서-총 정리!!(Book-RoadMap)
 
 https://economiceco.tistory.com/11818
