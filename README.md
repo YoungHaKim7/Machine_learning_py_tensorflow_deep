@@ -1,5 +1,16 @@
-
 # Machine Learing 
+
+
+# 개인용 ChatGPT만들기 100% private
+
+- Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports LLaMa2, llama.cpp, and more. Demo: https://gpt.h2o.ai/
+
+https://github.com/h2oai/h2ogpt
+
+
+<hr>
+
+<hr>
 
 <br>
 
