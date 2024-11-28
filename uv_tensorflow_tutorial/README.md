@@ -106,6 +106,30 @@ dependencies = [
 
 <br>
 
+<hr />
+
+# `uv tree`
+
+```bash
+$ uv tree
+Resolved 7 packages in 1ms
+pandas-py01 v0.1.0
+├── numpy v2.1.3
+├── pandas v2.2.3
+│   ├── numpy v2.1.3
+│   ├── python-dateutil v2.9.0.post0
+│   │   └── six v1.16.0
+│   ├── pytz v2024.2
+│   └── tzdata v2024.2
+├── python-dateutil v2.9.0.post0 (*)
+├── pytz v2024.2
+├── six v1.16.0
+└── tzdata v2024.2
+(*) Package tree already displayed
+```
+
+  
+
 <hr>
 
 
