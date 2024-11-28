@@ -50,6 +50,60 @@ dir/otherdir/.DS_Store
 
 ```
 
+<hr />
+
+```bash
+# init project
+
+$ uv init pandas_py01
+Initialized project `pandas-py01` at `/home/gy/002_pandas_test/pandas_py01`
+
+$ ls
+README.md  pandas_py01/
+
+$ cd pandas_py01/
+
+$ eza --icons -la -TL6
+drwxrwxrwx   - y 28 Nov 16:54  .
+.rw-rw-rw-   5 y 28 Nov 16:54 ├──  .python-version
+.rw-rw-rw-  89 y 28 Nov 16:54 ├──  hello.py
+.rw-rw-rw- 157 y 28 Nov 16:54 ├──  pyproject.toml
+.rw-rw-rw-   0 y 28 Nov 16:54 └──  README.md
+
+
+# 가상 환경 만들기
+$ uv venv
+Using CPython 3.10.12 interpreter at: /usr/bin/python3.10
+Creating virtual environment at: .venv
+Activate with: source .venv/bin/activate.fish
+
+$ ls
+README.md  hello.py  pyproject.toml
+
+$ uv pip install numpy pandas
+Resolved 6 packages in 179ms
+Prepared 6 packages in 3.34s
+Installed 6 packages in 1.46s
+ + numpy==2.1.3
+ + pandas==2.2.3
+ + python-dateutil==2.9.0.post0
+ + pytz==2024.2
+ + six==1.16.0
+ + tzdata==2024.2
+
+
+# pyproject.toml [dependencies]에 추가함
+dependencies = [
+  "numpy==2.1.3",
+  "pandas==2.2.3",
+  "python-dateutil==2.9.0.post0",
+  "pytz==2024.2",
+  "six==1.16.0",
+  "tzdata==2024.2",
+]
+
+```
+
 <br>
 
 <hr>
