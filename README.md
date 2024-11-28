@@ -2,12 +2,25 @@
 
 # .gitignore
 ```
-# A collection of useful .gitignore templates 
-# https://github.com/github/gitignore
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+uv.lock
+
+
+# rust fmt
+.ruff_cache
+
 # General
 .DS_Store
 dir/otherdir/.DS_Store
-.venv/
 
 ```
 
