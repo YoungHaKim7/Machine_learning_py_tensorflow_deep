@@ -87,6 +87,41 @@ https://astral.sh/
 
   - https://pypi.org/project/uv/
 
+# Creating a new project(uv)
+https://docs.astral.sh/uv/guides/projects/
+
+- You can create a new Python project using the uv init command:
+
+```bash
+uv init hello-world
+
+cd hello-world
+```
+
+- Alternatively, you can initialize a project in the working directory:
+
+```bash
+mkdir hello-world
+
+cd hello-world
+
+uv init
+```
+
+uv will create the following files:
+
+.
+├── .python-version
+├── README.md
+├── hello.py
+└── pyproject.toml
+
+The hello.py file contains a simple "Hello world" program. Try it out with uv run:
+
+```bash
+uv run hello.py
+```
+
 # 가상환경 만들기
 
 ```bash
