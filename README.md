@@ -15,7 +15,7 @@ wheels/
 uv.lock
 
 
-# rust fmt
+# ruff fmt
 .ruff_cache
 
 # General
