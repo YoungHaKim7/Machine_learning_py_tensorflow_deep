@@ -1,6 +1,10 @@
 # uv(Conda보다 압도적으로 빠름) rust로 만듬
 - https://github.com/astral-sh/uv
 
+- python fomatter(러스트로 만든 파이썬 formatter 겁나 빠름)
+  - An extremely fast Python linter and code formatter, written in Rust. 
+  - https://github.com/astral-sh/ruff
+
 # install
 
 - 1. Rust 를 Install한다.
@@ -28,3 +32,9 @@ uv self update
 # tutorial(uv)
 
 - https://docs.astral.sh/uv/getting-started/
+
+- uv help
+
+```bash
+uv --help
+```
