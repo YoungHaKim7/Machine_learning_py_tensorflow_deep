@@ -1,1 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+uv.lock
+
+
+# ruff fmt
+.ruff_cache
+
+# General
 .DS_Store
+dir/otherdir/.DS_Store
