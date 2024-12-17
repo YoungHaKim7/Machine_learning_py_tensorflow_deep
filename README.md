@@ -28,6 +28,13 @@ dir/otherdir/.DS_Store
 
 <hr>
 
+# 방송용 그래프 / 애니매이션 좋다. 굿
+- Manim https://namu.wiki/w/Manim
+  - https://github.com/CodingVillainKor/manim-kor
+- 유튜브에 활용방법
+  - [버그 임커밋](https://youtu.be/DA_wD8PKtAM?si=e7g6SReYvq5aHFVh)
+
+<hr />
 
 # How to leave/exit/deactivate a Python virtualenv
 
